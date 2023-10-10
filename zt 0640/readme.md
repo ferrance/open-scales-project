@@ -1,4 +1,4 @@
-#ZT 0640
+# Zero Tolerance 0640
 
 ## Original Knife
 
@@ -15,6 +15,8 @@ For either side, I start with a 1.5x6" piece that is about 1/8" thick, then
 sand it down to a 2mm thickness.
 
 ### The non-locking side
+
+!(/images/zt640-front.jpg)
 
 The non-locking side requires only a few holes and a bevel. This can 
 be machined with two tools. I have used a 2mm end mill for everything except
