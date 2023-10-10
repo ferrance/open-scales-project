@@ -16,7 +16,7 @@ sand it down to a 2mm thickness.
 
 ### The non-locking side
 
-!(/images/zt640-front.jpg)
+![Front of stock scale](/images/zt640-front.jpg)
 
 The non-locking side requires only a few holes and a bevel. This can 
 be machined with two tools. I have used a 2mm end mill for everything except
