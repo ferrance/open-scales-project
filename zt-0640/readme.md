@@ -4,7 +4,7 @@
 
 todo insert stock image
 
-(BHQ Link)[https://www.bladehq.com/item--Zero-Tolerance-Emerson-0640-Folding--92047]
+[BHQ Link](https://www.bladehq.com/item--Zero-Tolerance-Emerson-0640-Folding--92047)
 
 The 0640 uses 2mm thick green carbon fiber scales (there was a limited edition in black). The lock
 side has two cutouts on the back; the non-lock side is simple and has no cutouts. 
