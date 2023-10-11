@@ -2,7 +2,12 @@
 
 ## Original Knife
 
-todo insert stock image
+The ZT0640 is a relatively large (8.5") titanium framelock on washers. It sports a 20CV blade and
+uses a thumb disk for deployment. The green carbon fiber scales cover the frame lock, making it harder
+to inadvertently apply pressure to the lock when deploying, which is excellent. But the green is 
+hideous, so a scale replacement is mandatory. Sadly, this knife finally seems to be discontinued.
+
+todo insert image
 
 [BHQ Link](https://www.bladehq.com/item--Zero-Tolerance-Emerson-0640-Folding--92047)
 
