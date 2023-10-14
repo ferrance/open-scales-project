@@ -34,7 +34,7 @@ The pivot and the two screws that hold the knife together have 1mm counterbores.
 ESTLcam does the bevel after it cuts out the part, so you need to make sure
 that the piece is adhered to the spoilboard.
 
-### The locking side
+### The lock side
 
 ![Back of lock-side scale](/zt-0640/images/zt640-lockside-back.jpg)
 
@@ -42,10 +42,21 @@ This is the more difficult of the two scales. Since there is milling
 on both sides, there are two holes on either side that are used to 
 position the piece. These are sized for 1/8" brass rod that I use. 
 The gcode uses the center of the left of these two holes as its origin.
+The depth of the holes should be at least 1mm greater than the thickness
+of the scales. 
 
 The first pass mills the back side of the scale and mills the to holes
 used for positioning. This is quick and easy. Position the tool over
 where the left hole should be and run the gcode. I use a 2mm mill here.
+The large cutout for the lock is 0.5mm deep and the small circle for
+the detent ball is 1mm deep.
+
+I found it useful to add the following to the end of the file to move
+the spindle out of the way so I can flip the piece:
+
+```
+G00 X60 Y0
+```
 
 Before the second pass, you will need to flip the piece over and align
 using the holes and brass rod. But before you do that, apply some adhesive.
