@@ -1,4 +1,0 @@
-Open Scales Project
-
-## Goals
-
