@@ -6,4 +6,4 @@ Open Scales Project
 
 ## Knives
 
-- [Zero Tolerance 0640](/zt-640)
+- [Zero Tolerance 0640](zt-640/readme.md)
