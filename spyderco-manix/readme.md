@@ -1,6 +1,6 @@
 # Spyderco Manix 2
 
-![spyderco manix 2](https://raw.githubusercontent.com/ferrance/open-scales-project/main/spyderco-manix/images/manix-in-progress.jpg)
+![spyderco manix 2](images/manix-in-progress.jpg)
 
 The manix is one of the easiest scales to make. It is basically a flat
 scale with no milling on the inside. The scale is 2.6 mm thick, with
