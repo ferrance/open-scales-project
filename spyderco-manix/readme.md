@@ -33,7 +33,25 @@ so that its center is on the lower edge. It should be about a
 centimeter right of your left clamp. This will be the home
 position for all of the passes.
 
-## First Pass
+## One pass method
+
+If you have a piece of stock that is the correct thickness, this
+scale is very easy to cut, requiring only one tool change.
+
+I use a 2mm endmill for everyghind other than the chamfers. 
+Basically I just have that tool cut all the holes and the part.
+The rest is done with a 6mm, 90 degree chamfer bit. The 
+pivot is chamfered to 1.7mm. The other two chamfered screw
+holes go to 1.3mm. The part is chamfered to 1mm. That's it!
+
+## Doing it the hard way
+
+For a while I struggled to find a way to get my (generally 1/8")
+stock to the appropriate thickness. I ended up using this fairly
+complicated process for a while and have left it here in case
+it is useful to anyone. But this is not recommended.
+
+### First Pass
 
 If your stock is thicker than 2.6mm, you can  
 get it down to size here. I use a 6mm compression bit. The first pass 
@@ -57,7 +75,7 @@ the lanyard hole and the lock hole here.
 Here, I'm sticking with the 6mm compression, followed by the
 90 degree bit for the bevel.
 
-## Second pass (the remaining holes)
+### Second pass (the remaining holes)
 
 Uses a 2mm mill for the holes. Then a 90 degree for the chamfers.
 For pivot screw chamfer depth of 1.6mm. For the other two
