@@ -38,7 +38,7 @@ position for all of the passes.
 If you have a piece of stock that is the correct thickness, this
 scale is very easy to cut, requiring only one tool change.
 
-I use a 2mm endmill for everyghind other than the chamfers. 
+I use a 2mm endmill for everything other than the chamfers. 
 Basically I just have that tool cut all the holes and the part.
 The rest is done with a 6mm, 90 degree chamfer bit. The 
 pivot is chamfered to 1.7mm. The other two chamfered screw
@@ -80,3 +80,12 @@ Here, I'm sticking with the 6mm compression, followed by the
 Uses a 2mm mill for the holes. Then a 90 degree for the chamfers.
 For pivot screw chamfer depth of 1.6mm. For the other two
 I used a depth of 1.2.
+
+## Misc notes
+
+Pivot hole appears to be 1/8".
+The two other screws appear to be 3/32".
+The lanyard is about between 19/34 and 5/16.
+
+For planing, zero at the waste board using a sheet of paper. Move
+up 2.8mm. Run planer program.
