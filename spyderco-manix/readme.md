@@ -15,9 +15,9 @@ so I made it work.
 
 This is a one-sided scale. I prep this with blue painters
 tape on one side, then use superglue to secure it 
-to some waste board of the same size as the scale.
+to some waste board of the same width as the scale but a little taller.
 
-Because this scale barely fits in 1.5", it needs to be lined
+Because this scale barely fits in the 1.5" stock I am using, it needs to be lined
 up exactly. Put a bit in and lower it below the stock near the
 bottom left edge. Position the stock so it touches the bit and 
 lightly secure the left edge. Then move the bit to the 
@@ -33,7 +33,7 @@ so that its center is on the lower edge. It should be about a
 centimeter right of your left clamp. This will be the home
 position for all of the passes.
 
-## One pass method
+## Making the cuts
 
 If you have a piece of stock that is the correct thickness, this
 scale is very easy to cut, requiring only one tool change.
