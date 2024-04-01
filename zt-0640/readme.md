@@ -19,7 +19,7 @@ side has two cutouts on the back; the non-lock side is simple and has no cutouts
 Given the simplicity of this scale, I've chosen to render it as an SVG. 
 
 For either side, I start with a 1.5x6" piece that is about 1/8" thick, then
-sand it down to a 2mm thickness.
+machine it down to a 2mm thickness.
 
 ### The non-locking side
 
@@ -32,7 +32,10 @@ the final bevel. The final bevel uses a 120 degree chamfer mill.
 The pivot and the two screws that hold the knife together have 1mm counterbores.
 
 ESTLcam does the bevel after it cuts out the part, so you need to make sure
-that the piece is adhered to the spoilboard.
+that the piece is adhered to the spoilboard. With softer materials I haven't 
+had any problem with the painters tape and superglue method. But you could
+also machine the holes first and then put some screws through them, which
+I'll probably try when I make a pair of these out of copper.
 
 ### The lock side
 

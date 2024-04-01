@@ -6,6 +6,7 @@ Open Scales Project
 
 ## Knives
 
+- [Civivi Elementum](civivi-elementum)
 - Kizex Cormorant XL
 - Spyderco Paramilitary 2
 - Spyderco Smock
