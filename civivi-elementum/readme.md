@@ -2,9 +2,9 @@
 
 ![spyderco manix 2](images/manix-in-progress.jpg)
 
-The elementum is a fairly simple scale design. It's linerless 
+The elementum is a fairly simple scale design. It is a liner lock
 and smaller than the liners. The scales (at least on mine)
-are 2.1mm thick.
+are a tiny bit over 2mm thick.
 
 The lock side scale has a little milling to allow the liner 
 lock to move when the blade is closed.
@@ -12,27 +12,19 @@ lock to move when the blade is closed.
 The non-locking side has a notch in the pivot that serves 
 much the same function as a D-slot would in other knives.
 
+The edges appear to be chamfered. I'm doing a 1mm chamfer with a 
+90 degree bit.
+
 ## Setup
 
-This is a one-sided scale. I prep this with blue painters
-tape on one side, then use superglue to secure it 
-to some waste board of the same width as the scale but a little taller.
+The non-locking side is one-sided and the lock side is milled on both sides. 
+I prep this with blue painters tape on one side, then use superglue to secure it 
+to some waste board of the same width as the scale but a little taller. For the 
+two-sided one, I put the tape and glue on after cutting the first side.
 
-Because this scale barely fits in the 1.5" stock I am using, it needs to be lined
-up exactly. Put a bit in and lower it below the stock near the
-bottom left edge. Position the stock so it touches the bit and 
-lightly secure the left edge. Then move the bit to the 
-bottom right. Push the right edge down until it is touching the
-bit and lightly secure. Go back and forth a few times to make
-sure that the piece is closely alined with your X axis.
-
+I was able to find 2mm stock (copper!), so I did not 
 At this point I use the planer at 2.6mm, 140x42 to get the 
 material to the correct height.
-
-Now raise the bit to about the level of the piece. Position it
-so that its center is on the lower edge. It should be about a
-centimeter right of your left clamp. This will be the home
-position for all of the passes.
 
 ## Making the cuts
 
