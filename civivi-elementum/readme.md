@@ -1,6 +1,6 @@
 # Civivi Elementum
 
-![spyderco manix 2](images/manix-in-progress.jpg)
+![spyderco manix 2](images/civivi-elementum.jpg)
 
 The elementum is a fairly simple scale design. It is a liner lock
 and smaller than the liners. The scales (at least on mine)
@@ -11,6 +11,9 @@ lock to move when the blade is closed.
 
 The non-locking side has a notch in the pivot that serves 
 much the same function as a D-slot would in other knives.
+It is also shaped differently than the lock side, at least
+on my wharncliffe model, allowing
+a little more room for access to the thumb stud.
 
 The edges appear to be chamfered. I'm doing a 1mm chamfer with a 
 90 degree bit.
@@ -33,11 +36,7 @@ scale is very easy to cut, requiring only one tool change.
 
 I use a 2mm endmill for everything other than the chamfers. 
 Basically I just have that tool cut all the holes and the part.
-The rest is done with a 6mm, 90 degree chamfer bit. The 
-pivot is chamfered to 1.7mm. The other two chamfered screw
-holes go to 1.3mm. The part is chamfered to 1mm. And I 
-like to chamfer the lock mechanism to .5mm.
-That's it!
+The rest is done with a 6mm, 90 degree chamfer bit. 
 
 Lock side. Set the zero on the left alignment hole.
 Cut the inside, which is the two holes and the liner
@@ -51,7 +50,7 @@ run the outside cut.
 
 Non-lock side. This side is much easier. Simply tape and
 glue the piece. Cut the holes, then pause and use some
-screws to secure the piece. Then cut the outline.
+screws to furter secure the piece. Then cut the outline.
 
 ## Misc notes
 
@@ -59,10 +58,7 @@ To make this knife left hand friendly, I needed to mill these scales
 out of metal and drill and tap the two holes for the clip.
 The clip screws are M2.5. This means use of a 2.05mm drill.
 
-Will a 2.0mm hole work? It works just fine.
+Will a 2.0mm hole work? I expect so.
 
-Make holes
- deeper in copper based on how my probe 
-is working. 1.5mm for the insets and 2.5 for the thru holes.
-
-No problems with .1mm doc, 10mm/s, 9krpm on the 2mm 3-flute.
+The non-lock side has a tiny notch to retain the pivot in place.
+It is about 2mm wide.
