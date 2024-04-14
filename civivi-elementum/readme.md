@@ -6,7 +6,7 @@ The elementum is a fairly simple scale design. It is a liner lock
 and smaller than the liners. The scales (at least on mine)
 are a tiny bit over 2mm thick.
 
-The lock side scale has a little milling to allow the liner 
+The lock side scale has a little milling on the inside to allow the liner 
 lock to move when the blade is closed.
 
 The non-locking side has a notch in the pivot that serves 
@@ -25,8 +25,9 @@ I prep this with blue painters tape on one side, then use superglue to secure it
 to some waste board of the same width as the scale but a little taller. For the 
 two-sided one, I put the tape and glue on after cutting the first side.
 
-I was able to find 2mm stock (copper!), so I did not 
-At this point I use the planer at 2.6mm, 140x42 to get the 
+I was able to find 2mm stock (copper!), so I did not need to 
+machine it to the correct height.
+For test pieces in woold I use the planer at 2.0mm, 140x42 to get the 
 material to the correct height.
 
 ## Making the cuts
@@ -38,9 +39,10 @@ I use a 2mm endmill for everything other than the chamfers.
 Basically I just have that tool cut all the holes and the part.
 The rest is done with a 6mm, 90 degree chamfer bit. 
 
-Lock side. Set the zero on the left alignment hole.
+**Lock side**. Set the zero on the left alignment hole.
 Cut the inside, which is the two holes and the liner
 lock relief cutout.
+
 Remove piece and tape the side you just cut. Verify that
 your 1/8" rods fit all the holes. Apply superglue and place
 the piece, using the two holes to get the alignment right.
@@ -48,17 +50,23 @@ Remove the rod from the right side since that's where
 you will need to probe for the Z axis. Now you can
 run the outside cut.
 
-Non-lock side. This side is much easier. Simply tape and
-glue the piece. Cut the holes, then pause and use some
-screws to furter secure the piece. Then cut the outline.
+**Non-lock side**. This side is much easier. Simply tape and
+glue the piece. For copper, I also used screws to secure the
+copper to the waste board. Cut the holes, then pause and use some
+screws to further secure the piece. Then cut the outline.
+For the copper, I used trochoidal milling on the part.
 
 ## Misc notes
 
 To make this knife left hand friendly, I needed to mill these scales 
 out of metal and drill and tap the two holes for the clip.
 The clip screws are M2.5. This means use of a 2.05mm drill.
-
-Will a 2.0mm hole work? I expect so.
+I elected to mill 1mm deep 1mm diameter holes to mark the clip
+hole positions, then drill and tap by hand.
 
 The non-lock side has a tiny notch to retain the pivot in place.
-It is about 2mm wide.
+It is about 2mm wide. So far I have not bothered to implement this
+since I'm able to use the pivot without it.
+
+I'm using 1.5mm for the inset parts around the pivot and spacers. 
+Everything else is 2.5mm deep. The chamfer is 0.8.
