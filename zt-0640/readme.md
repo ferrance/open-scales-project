@@ -27,7 +27,8 @@ machine it down to a 2mm thickness.
 
 The non-locking side requires only a few holes and a bevel. This can 
 be machined with two tools. I have used a 2mm end mill for everything except
-the final bevel. The final bevel uses a 120 degree chamfer mill.
+the final bevel. The final bevel uses a 120 degree chamfer mill. The 
+bevel should be set to 2mm in ESTLCam.
 
 The pivot and the two screws that hold the knife together have 1mm counterbores.
 
@@ -68,4 +69,4 @@ applies the bevel.
 
 Once the piece is positioned and the glue has adequately set, start this
 operation with a 2mm mill. There is a tool change at the end for the 120
-degree bevel.
+degree bevel. The bevel depth in estlcam should be 2mm.

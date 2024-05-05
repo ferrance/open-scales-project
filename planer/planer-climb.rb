@@ -72,16 +72,13 @@ dy = STEP * D
 x =0
 
 while y < Y
+  # move to right side
+  puts "G01 Y " + (y-1).to_s + " F1200"
+  puts "G01 X " + (X-D).to_s + " F1200"
+
   y = y + dy
   puts "G01 Y " + y.to_s + " F" + SPEED.to_s
-
-  if x==0
-    puts "G01 X " + (X-D).to_s + " F"+ SPEED.to_s
-    x = X
-  else
-    puts "G01 X 0 F" + SPEED.to_s
-    x = 0
-  end
+  puts "G01 X0 F" + SPEED.to_s
 
 end
 
