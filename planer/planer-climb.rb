@@ -1,5 +1,5 @@
 D = 6         # diameter of bit
-X = 140       # width of rectangle (x axis)
+X = 143       # width of rectangle (x axis)
 Y = 44        # ht of rectangle (y axis)
 STEP = 0.35   # percent overlap of cuts
 SPEED = 600  # speed in mm/s
@@ -34,6 +34,8 @@ HOMEZ = 1     # home z axis?
 # and plane the top of it. Then cover the block and the work
 # piece with tape. Use super glue to adhere the two together.
 # then you can plane the work piece.
+# 
+# This version uses only climb milling.
 
 puts "; dimensions " + X.to_s + "x" + Y.to_s + ", height " + ZOFS.to_s
 puts "; speed = " + SPEED.to_s

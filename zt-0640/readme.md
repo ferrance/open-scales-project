@@ -49,6 +49,9 @@ The gcode uses the center of the left of these two holes as its origin.
 The depth of the holes should be at least 1mm greater than the thickness
 of the scales. 
 
+For the alignment holes to work, you need a piece of spoilboard
+and it needs to stay in the same spot the entire time.
+
 The first pass mills the back side of the scale and mills the to holes
 used for positioning. This is quick and easy. Position the tool over
 where the left hole should be and run the gcode. I use a 2mm mill here.
@@ -59,13 +62,17 @@ I found it useful to add the following to the end of the file to move
 the spindle out of the way so I can flip the piece:
 
 ```
-G00 X60 Y0
+G00 X60 Y50
 ```
 
 Before the second pass, you will need to flip the piece over and align
 using the holes and brass rod. But before you do that, apply some adhesive.
 Like the non-lock-side scale, this operation will cut the part out before it 
 applies the bevel.
+
+There are some tight tolerance in the middle screw since it has a cutout 
+on the opposite side. I find it useful to do the Z calibration at or near
+that hole.
 
 Once the piece is positioned and the glue has adequately set, start this
 operation with a 2mm mill. There is a tool change at the end for the 120

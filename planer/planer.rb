@@ -1,5 +1,5 @@
 D = 6         # diameter of bit
-X = 140       # width of rectangle (x axis)
+X = 141       # width of rectangle (x axis)
 Y = 44        # ht of rectangle (y axis)
 STEP = 0.35   # percent overlap of cuts
 SPEED = 600  # speed in mm/s
