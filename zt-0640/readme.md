@@ -1,6 +1,6 @@
 # Zero Tolerance 0640
 
-![Front of stock scale](/zt-0640/images/zt640-ironwood-scales.jpg)
+![Front of stock scale](/zt-0640/images/zt0640-ironwood-scales.jpg)
 
 ## Original Knife
 
@@ -11,7 +11,7 @@ hideous, so a scale replacement is mandatory. Sadly, this knife finally seems to
 
 [BHQ Link](https://www.bladehq.com/item--Zero-Tolerance-Emerson-0640-Folding--92047)
 
-The 0640 uses 2mm thick green carbon fiber scales (there was a limited edition in black). The lock
+The 0640 uses 2mm thick green carbon fiber scales (there was also a limited edition in black). The lock
 side has two cutouts on the back; the non-lock side is simple and has no cutouts. 
 
 ## The scales
@@ -28,7 +28,7 @@ machine it down to a 2mm thickness.
 The non-locking side requires only a few holes and a bevel. This can 
 be machined with two tools. I have used a 2mm end mill for everything except
 the final bevel. The final bevel uses a 120 degree chamfer mill. The 
-bevel should be set to 2mm in ESTLCam.
+bevel should be set to 2.5mm in ESTLCam.
 
 The pivot and the two screws that hold the knife together have 1mm counterbores.
 
@@ -52,11 +52,13 @@ of the scales.
 For the alignment holes to work, you need a piece of spoilboard
 and it needs to stay in the same spot the entire time.
 
-The first pass mills the back side of the scale and mills the to holes
-used for positioning. This is quick and easy. Position the tool over
-where the left hole should be and run the gcode. I use a 2mm mill here.
+For the first pass, I secure the piece with tape and glue and 
+machine to a height of 2mm. 
+I then mill the back side of the scale, which just includes the 
+cutout for the lock and the positioning holes. 
+I use a 2mm mill here.
 The large cutout for the lock is 0.5mm deep and the small circle for
-the detent ball is 1mm deep.
+the detent ball is 1mm deep. The origin is the left positioning hole.
 
 I found it useful to add the following to the end of the file to move
 the spindle out of the way so I can flip the piece:
@@ -66,14 +68,19 @@ G00 X60 Y50
 ```
 
 Before the second pass, you will need to flip the piece over and align
-using the holes and brass rod. But before you do that, apply some adhesive.
+using the holes and brass rod. But before you do that, apply some tape and adhesive.
 Like the non-lock-side scale, this operation will cut the part out before it 
 applies the bevel.
 
-There are some tight tolerance in the middle screw since it has a cutout 
-on the opposite side. I find it useful to do the Z calibration at or near
-that hole.
+For the second operation, flip the SVG vertically in ESTLCam (since you flipped the
+workpiece vertically after the first operation). Keep the origin at the
+left positioning hole. Make sure that your start code does not reset the 
+X and Y machine coordinates--you want to retain them from the first pass.
 
 Once the piece is positioned and the glue has adequately set, start this
 operation with a 2mm mill. There is a tool change at the end for the 120
 degree bevel. The bevel depth in estlcam should be 2mm.
+
+There are some tight tolerance in the middle screw since it has a cutout 
+on the opposite side. I find it useful to do the Z calibration at or near
+that hole.
