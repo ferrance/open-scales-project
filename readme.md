@@ -8,6 +8,11 @@ It was great that they made one. But it only came in one handle
 and one steel, while the right hand version has dozens or possibly
 even hundreds of variations.
 
+That knife started me down the CNC rabbit hole. I buit several 
+machines until I had one that was accurate enough to make scales.
+Now I spend my weekends making new scales, typically lefty 
+friendly, for various knives. The results are here.
+
 ## Fininshed Knives
 
 These are scales that you should be able to get working 
