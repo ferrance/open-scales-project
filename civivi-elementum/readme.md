@@ -40,15 +40,30 @@ Basically I just have that tool cut all the holes and the part.
 The rest is done with a 6mm, 90 degree chamfer bit. 
 
 **Lock side**. Set the zero on the left alignment hole.
+I like to put blue tape on the spoil board at this point 
+so that the alignment holes get drilled through it. 
+But not on the copper because it would affect the Z zero.
 Cut the inside, which is the two holes and the liner
 lock relief cutout.
 
 Remove piece and tape the side you just cut. Verify that
 your 1/8" rods fit all the holes. Apply superglue and place
 the piece, using the two holes to get the alignment right.
-Remove the rod from the right side since that's where
-you will need to probe for the Z axis. Now you can
-run the outside cut.
+(I have done this without glue and it worked fine with 
+screws through the pivot and other two holes. So maybe
+the tape isn't necessary.)
+
+I break the other side into two programs. First, do all the
+holes. This allows you to use them to secure the workpiece
+before doing the part itself. I found that #2 screws fit
+for the small screws, and there are lots of options for the
+pivot screw. Once everything is secure you can remove the
+alignment rods if you wish.
+
+The pivot is 1.2mm deep. The other two are 1.5mm.
+
+After securing the piece, I run a program that just does the
+edge and chamfer.
 
 **Non-lock side**. This side is much easier. Simply tape and
 glue the piece. For copper, I also used screws to secure the
@@ -70,3 +85,7 @@ since I'm able to use the pivot without it.
 
 I'm using 1.5mm for the inset parts around the pivot and spacers. 
 Everything else is 2.5mm deep. The chamfer is 0.8.
+
+I've had the pivot hole come out just a tiny bit too small.
+The pivot is 5mm so if that happens to you just hit it with a
+5mm drill.

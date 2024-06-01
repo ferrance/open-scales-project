@@ -1,4 +1,4 @@
-Open Scales Project
+# Open Scales Project
 
 ## Goals
 
@@ -30,3 +30,8 @@ others.
 - Kizex Cormorant XL
 - Spyderco Paramilitary 2
 - Spyderco Smock
+- milled CME (compression lock extender)
+
+## Misc
+
+- Planer
