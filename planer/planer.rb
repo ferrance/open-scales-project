@@ -5,7 +5,7 @@ STEP = 0.35   # percent overlap of cuts
 SPEED = 600  # speed in mm/s
               # wood can take 1200 with the 6mm bit @ 6500rpm
               # so can micarta
-ZOFS = 2.0      # if positive, move up this amt before cutting
+ZOFS = 2.5      # if positive, move up this amt before cutting
 HOMEZ = 1     # home z axis?
 
 
