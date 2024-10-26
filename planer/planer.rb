@@ -1,11 +1,11 @@
 D = 6         # diameter of bit
-X = 141       # width of rectangle (x axis)
+X = 110       # width of rectangle (x axis) 141
 Y = 44        # ht of rectangle (y axis)
 STEP = 0.35   # percent overlap of cuts
 SPEED = 600  # speed in mm/s
               # wood can take 1200 with the 6mm bit @ 6500rpm
               # so can micarta
-ZOFS = 2.5      # if positive, move up this amt before cutting
+ZOFS = 2.0      # if positive, move up this amt before cutting
 HOMEZ = 1     # home z axis?
 
 
@@ -48,11 +48,11 @@ if (HOMEZ>0)
   puts "M0 (MSG Place Z Probe)"
 
   # obviously this is specific to my probe height
-  puts "G38.2 G91 Z-20 F50 P1.65"
+  puts "G38.2 G91 Z-20 F50 P1.6"
   puts "G1 Z2 F150"
 
   # obviously this is specific to my probe height
-  puts "G38.2 G91 Z-5 F30 P1.65"
+  puts "G38.2 G91 Z-5 F30 P1.6"
   puts "G1 Z3 F150"
 
   puts "G90"
