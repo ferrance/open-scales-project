@@ -1,12 +1,12 @@
 D = 6         # diameter of bit
-X = 110       # width of rectangle (x axis) 141
+X = 141       # width of rectangle (x axis) 141
 Y = 44        # ht of rectangle (y axis)
 STEP = 0.35   # percent overlap of cuts
 SPEED = 600  # speed in mm/s
               # wood can take 1200 with the 6mm bit @ 6500rpm
               # so can micarta
-ZOFS = 2.0      # if positive, move up this amt before cutting
-HOMEZ = 1     # home z axis?
+ZOFS = 0      # if positive, move up this amt before cutting
+HOMEZ = 0     # home z axis?
 
 
 # origially did 145x140 to to all of scale except edges

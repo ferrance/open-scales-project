@@ -1,11 +1,11 @@
 D = 6         # diameter of bit
-X = 143       # width of rectangle (x axis)
+X = 141       # width of rectangle (x axis)
 Y = 44        # ht of rectangle (y axis)
 STEP = 0.35   # percent overlap of cuts
 SPEED = 600  # speed in mm/s
               # wood can take 1200 with the 6mm bit @ 6500rpm
               # so can micarta
-ZOFS = 2.0      # if positive, move up this amt before cutting
+ZOFS = 5.0      # if positive, move up this amt before cutting
 HOMEZ = 1     # home z axis?
 
 
@@ -37,6 +37,7 @@ HOMEZ = 1     # home z axis?
 # 
 # This version uses only climb milling.
 
+puts "; planer-climb.rb"
 puts "; dimensions " + X.to_s + "x" + Y.to_s + ", height " + ZOFS.to_s
 puts "; speed = " + SPEED.to_s
 puts "; bit diameter = " + D.to_s
