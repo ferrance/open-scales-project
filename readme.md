@@ -19,6 +19,7 @@ These are scales that you should be able to get working
 with the files in this repository.
 
 - [Zero Tolerance 0640](zt-0640/readme.md)
+- [Spyderco Smock](spyderco-smock)Spyderco Smock
 
 ## Works in Progress
 
@@ -29,7 +30,6 @@ others.
 - [Spyderco Manix 2](spyderco-manix) (nearly done)
 - Kizex Cormorant XL
 - Spyderco Paramilitary 2
-- Spyderco Smock
 - milled CME (compression lock extender)
 
 ## Misc
