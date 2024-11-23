@@ -19,7 +19,7 @@ These are scales that you should be able to get working
 with the files in this repository.
 
 - [Zero Tolerance 0640](zt-0640/readme.md)
-- [Spyderco Smock](spyderco-smock)Spyderco Smock
+- [Spyderco Smock](spyderco-smock)
 
 ## Works in Progress
 
