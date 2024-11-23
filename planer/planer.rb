@@ -1,6 +1,6 @@
 D = 6         # diameter of bit
-X = 141       # width of rectangle (x axis) 141
-Y = 44        # ht of rectangle (y axis)
+X = 160       # width of rectangle (x axis) 141
+Y = 70        # ht of rectangle (y axis) 44
 STEP = 0.35   # percent overlap of cuts
 SPEED = 600  # speed in mm/s
               # wood can take 1200 with the 6mm bit @ 6500rpm

@@ -26,8 +26,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="10.342614"
-     inkscape:cx="473.33295"
-     inkscape:cy="35.967696"
+     inkscape:cx="292.72097"
+     inkscape:cy="82.377627"
      inkscape:window-width="2610"
      inkscape:window-height="1254"
      inkscape:window-x="0"
@@ -127,4 +127,9 @@
        id="circle425"
        cx="30.420376"
        cy="35.449764"
-       r="2.2038171" /></g></svg>
+       r="2.2038171" /><circle
+       style="fill:#ffff00;fill-opacity:0;stroke:#ff0000;stroke-width:0.107113;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       id="stop_pin"
+       cx="101.32037"
+       cy="38.561016"
+       r="1.7964436" /></g></svg>
