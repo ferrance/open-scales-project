@@ -1,6 +1,6 @@
 # Spyderco Smock
 
-![Spyderco Smock](images/smock.jpg)
+![Spyderco Smock](/spyderco-smock/images/smock.jpg)
 The scale is 2.5mm thick. If you go thinner you won't be able to fully tighten the pivot.
 
 The counterbores should be 1.5mm deep. Should bevel edge (1mm at 90deg) and button hole (.5mm at 90 deprees).
