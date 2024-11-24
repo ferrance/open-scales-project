@@ -3,10 +3,11 @@
 ![Spyderco Smock](/spyderco-smock/images/smock.jpg)
 The scale is 2.5mm thick. If you go thinner you won't be able to fully tighten the pivot.
 
-The counterbores should be 1.5mm deep. Should bevel edge (1mm at 90deg) and button hole (.5mm at 90 deprees).
+The counterbores should be 1.4mm deep. Should bevel edge (1mm at 90deg) and button hole (.5mm at 90 deprees).
 
 The pivot hole has been tight on a few of the scales I have cut. If you need to widen it you can
-use a 3/16" drill. If you need to expand the other two scale screws you can use a #30 or a 3.5mm.
+use a 3/16" drill. (The pivot is 4.5mm in diameter) 
+If you need to expand the other two scale screws you can use a #30 or a 3.5mm.
 
 The factory lock side scale has some minimal internal milling. I'm not using the spring detent so I
 have omitted it. Similarly, the cutout for the lockbar does not seem to be necessary, so I have also
